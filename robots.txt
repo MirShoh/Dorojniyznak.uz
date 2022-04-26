@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /img/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /scss/
+Allow: /
+Sitemap: https://dorojniyznak.uz/sitemap.xml
+
