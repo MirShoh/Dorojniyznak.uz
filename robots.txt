@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: Googlebot
 Disallow: /css/
 Disallow: /img/
 Disallow: /fonts/
